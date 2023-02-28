@@ -88,6 +88,5 @@ GIT DESKTOP
   # wget "https://github/shift/desktop
   # dpkg -i [arquivo-download]
 
-
 AULA 07
 ________________________________________
