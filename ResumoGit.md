@@ -77,5 +77,17 @@ Abrir VsCode--->(Crtl Shif A)
 Commit--------->(Crtl Enter)
 Push----------->(Ctrl P)
 ----------------------------------------
-AULA 06 ....
+No Linux
+GIT
+  # apt install git-all
+  # git --version
+VS CODE
+  # wget "https://go.microsoft.com/fwlink/?LinkID=620884" -O vscode.tar.gz
+  # dpkg -i [arquivo-download]
+GIT DESKTOP
+  # wget "https://github/shift/desktop
+  # dpkg -i [arquivo-download]
+
+
+AULA 07
 ________________________________________
